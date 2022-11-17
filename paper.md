@@ -9,7 +9,9 @@ Therefore, this paper is going to document my favourities.
 # Favourite African Animals!
 
 Giraffe
+Meerkats
 
 # Favourite Australian Animals!
 
 Koalas
+Spiders
