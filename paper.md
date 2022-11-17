@@ -7,3 +7,5 @@ Animals are the coolest.
 Therefore, this paper is going to document my favourities.
 
 # Favourite Animals!
+Giraffe
+
