@@ -6,6 +6,10 @@ author: 'Yi Xu'
 Animals are the coolest.
 Therefore, this paper is going to document my favourities.
 
-# Favourite Animals!
+# Favourite African Animals!
+
 Giraffe
 
+# Favourite Australian Animals!
+
+Koalas
